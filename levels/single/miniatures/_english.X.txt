@@ -1,0 +1,8 @@
+Simon's Miniatures
+
+Level size is at most 320 x 200.
+Lix count is at most 9.
+Skill count is at most 9.
+
+Enjoy!
+-- Simon
