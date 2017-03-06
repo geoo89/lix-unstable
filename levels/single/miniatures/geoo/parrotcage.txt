@@ -1,0 +1,32 @@
+$BUILT 2017-04-29 11:27:54
+$AUTHOR geoo
+$ENGLISH Parrot Cage
+
+#INTENDED_NUMBER_OF_PLAYERS 1
+#SIZE_X 160
+#SIZE_Y 160
+
+#INITIAL 8
+#REQUIRED 7
+#SPAWN_INTERVAL 20
+
+#PLATFORMER 2
+#DIGGER 1
+#CUBER 1
+#EXPLODER2 0
+
+:geoo/construction/Hatch.H: 64 0
+
+:matt/goldmine/Goal.G: 48 112
+
+:geoo/sandstone/64x64: 48 48
+:geoo/sandstone/smaragd: 80 80
+:geoo/sandstone/smaragd: 64 64
+:geoo/construction/platform.S: 48 158
+:geoo/construction/platform.S: 80 158
+:geoo/sandstone/32x64: 0 48
+:geoo/sandstone/32x64: 128 48
+:geoo/sandstone/32x64: 128 -16
+:geoo/sandstone/32x64: 0 -16
+:geoo/sandstone/32x64: 128 112
+:geoo/sandstone/32x64: 0 112
