@@ -1,4 +1,4 @@
-$BUILT 2017-09-30 11:06:43
+$BUILT 2017-09-30 11:52:04
 $AUTHOR geoo
 $ENGLISH Solitary Confinement
 
@@ -9,7 +9,7 @@ $ENGLISH Solitary Confinement
 #TORUS_Y 1
 
 #INITIAL 3
-#REQUIRED 1
+#REQUIRED 3
 #SPAWN_INTERVAL 1
 
 #MINER 1
