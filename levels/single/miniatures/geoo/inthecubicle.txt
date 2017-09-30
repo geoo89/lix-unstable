@@ -1,10 +1,10 @@
-$BUILT 2017-09-30 11:13:32
+$BUILT 2017-09-30 11:56:41
 $AUTHOR geoo
 $ENGLISH In the Cubicle
 
 #INTENDED_NUMBER_OF_PLAYERS 1
 #SIZE_X 160
-#SIZE_Y 160
+#SIZE_Y 176
 
 #INITIAL 8
 #REQUIRED 7
@@ -17,17 +17,17 @@ $ENGLISH In the Cubicle
 
 :geoo/construction/Hatch.H: 80 0
 
-:simon/tapir/goal.G: 48 112
+:simon/tapir/goal.G: 48 128
 
-:geoo/sandstone/64x64: 48 48
-:geoo/sandstone/smaragd: 80 80
-:geoo/sandstone/smaragd: 64 64
-:geoo/construction/platform.S: 48 158
-:geoo/construction/platform.S: 80 158
-:geoo/sandstone/32x64: 0 48
-:geoo/sandstone/32x64: 128 48
-:geoo/sandstone/32x64: 128 -16
-:geoo/sandstone/32x64: 0 -16
-:geoo/sandstone/32x64: 128 112
-:geoo/sandstone/32x64: 0 112
-:geoo/construction/platform.S: 64 127
+:geoo/sandstone/64x64: 48 56
+:geoo/sandstone/smaragd: 80 88
+:geoo/sandstone/smaragd: 64 72
+:geoo/construction/platform.S: 48 174
+:geoo/construction/platform.S: 80 174
+:geoo/sandstone/32x64: 0 56
+:geoo/sandstone/32x64: 128 56
+:geoo/sandstone/32x64: 128 -8
+:geoo/sandstone/32x64: 0 -8
+:geoo/sandstone/32x64: 128 120
+:geoo/sandstone/32x64: 0 120
+:geoo/construction/platform.S: 64 143
